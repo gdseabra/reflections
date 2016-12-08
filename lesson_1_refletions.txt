@@ -1,0 +1,5 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It allows us to simplify such process by 
+1. reducing the part of the code to be searched by only highlighting the differences between the two.
+2. organizes the viewing space by putting the changes side-by-side, thus speeding up the process of recognizing bugs and typos.
